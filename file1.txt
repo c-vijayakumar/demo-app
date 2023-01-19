@@ -2,3 +2,4 @@ file1
 new line added
 new line added
 new line added
+local change
